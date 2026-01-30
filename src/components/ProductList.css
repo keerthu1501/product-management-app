@@ -1,0 +1,13 @@
+.product-page {
+  padding: 20px;
+  background: #f8f9fb;
+  min-height: 100vh;
+}
+
+/* Grid layout */
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
