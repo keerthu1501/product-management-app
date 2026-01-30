@@ -1,3 +1,31 @@
+# Product Management App
+
+A React JS application that allows users to:
+- Login with session persistence
+- View products from Fake Store API
+- Add and delete products (local state)
+- Upload product images from device
+- View detailed product information
+
+## Tech Stack
+- React JS
+- Redux Toolkit
+- Fetch API
+- React Router
+- CSS
+
+## Features
+- Authentication with cookies
+- CRUD operations
+- Product details page
+- Image upload & preview
+- Responsive UI
+
+## Run Locally
+```bash
+npm install
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
